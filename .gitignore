@@ -1,0 +1,6 @@
+.history
+.vscode
+cache
+state
+**/__pycache__
+s3_secret.yaml
